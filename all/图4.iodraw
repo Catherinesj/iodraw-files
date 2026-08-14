@@ -48,7 +48,7 @@
             <mxRectangle width="75" height="42" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="uZLEXHVQCZWUKF8ja4L1-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=default;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="uZLEXHVQCZWUKF8ja4L1-12">
+        <mxCell id="uZLEXHVQCZWUKF8ja4L1-16" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#AC59FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;gradientColor=none;fillStyle=hatch;" vertex="1" parent="uZLEXHVQCZWUKF8ja4L1-12">
           <mxGeometry x="225" width="75" height="42" as="geometry">
             <mxRectangle width="75" height="42" as="alternateBounds" />
           </mxGeometry>
