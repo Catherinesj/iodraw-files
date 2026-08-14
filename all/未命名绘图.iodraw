@@ -7,7 +7,7 @@
         <mxCell id="cpjLnupszgCSJ5t2Tlr8-78" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#D6B656;opacity=50;dashed=1;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="120.76" y="50" width="550" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="cpjLnupszgCSJ5t2Tlr8-77" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;shape=flexArrow;strokeWidth=2;fillColor=#FFE599;strokeColor=#3B2C08;fillStyle=hatch;gradientColor=default;" edge="1" parent="1" source="cpjLnupszgCSJ5t2Tlr8-73" target="cpjLnupszgCSJ5t2Tlr8-74">
+        <mxCell id="cpjLnupszgCSJ5t2Tlr8-77" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.001;entryY=0.168;entryDx=0;entryDy=0;entryPerimeter=0;curved=0;shape=flexArrow;strokeWidth=2;fillColor=#FFE599;strokeColor=#3B2C08;fillStyle=hatch;gradientColor=#E6E6E6;" edge="1" parent="1" source="cpjLnupszgCSJ5t2Tlr8-73" target="cpjLnupszgCSJ5t2Tlr8-74">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="170" y="482" as="targetPoint" />
             <Array as="points">
