@@ -222,6 +222,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="3jQLfHwQpuGo-7zsA15f-82" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="570" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
