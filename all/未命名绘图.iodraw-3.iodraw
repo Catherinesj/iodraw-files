@@ -66,7 +66,7 @@
         </mxCell>
         <mxCell id="3jQLfHwQpuGo-7zsA15f-27" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;fillColor=#ffe6cc;strokeColor=#d79b00;" edge="1" parent="1" target="3jQLfHwQpuGo-7zsA15f-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="427.96000000000004" y="550" as="sourcePoint" />
+            <mxPoint x="420" y="540" as="sourcePoint" />
             <mxPoint x="400" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
