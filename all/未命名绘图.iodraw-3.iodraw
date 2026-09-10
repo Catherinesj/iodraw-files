@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="3jQLfHwQpuGo-7zsA15f-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="3jQLfHwQpuGo-7zsA15f-66" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="890" y="519.7" width="90" height="40.3" as="geometry" />
         </mxCell>
         <mxCell id="3jQLfHwQpuGo-7zsA15f-46" value="" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
@@ -151,12 +151,6 @@
         </mxCell>
         <mxCell id="3jQLfHwQpuGo-7zsA15f-60" value="&lt;b&gt;N&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="940" y="524.85" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="3jQLfHwQpuGo-7zsA15f-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="826" y="560" as="sourcePoint" />
-            <mxPoint x="826" y="591.11" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="3jQLfHwQpuGo-7zsA15f-63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="560" y="456" width="26.21" height="94" as="geometry" />
