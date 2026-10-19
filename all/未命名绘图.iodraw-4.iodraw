@@ -22,6 +22,12 @@
         <mxCell id="b5e__8cxwdXfO7pjib_D-7" value="LED灯闪烁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="b5e__8cxwdXfO7pjib_D-8" value="电机供电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b5e__8cxwdXfO7pjib_D-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
