@@ -24,8 +24,13 @@
             <mxPoint x="330" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b5e__8cxwdXfO7pjib_D-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5" target="b5e__8cxwdXfO7pjib_D-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="b5e__8cxwdXfO7pjib_D-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5" target="b5e__8cxwdXfO7pjib_D-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="242" y="270" />
+              <mxPoint x="430" y="270" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;主控板STM32F103&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="180" width="374" height="60" as="geometry" />
