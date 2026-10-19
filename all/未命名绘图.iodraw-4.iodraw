@@ -23,10 +23,10 @@
           <mxGeometry x="190" y="290" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-8" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;电机供电&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="390" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-9" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;齿轮传动&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="380" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-10" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;小车前进&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="294" y="550" width="120" height="60" as="geometry" />
@@ -35,10 +35,10 @@
           <mxGeometry x="510" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;太阳能板供电&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="150" height="60" as="geometry" />
+          <mxGeometry x="630" y="240" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;电容储能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
