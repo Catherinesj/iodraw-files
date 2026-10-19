@@ -19,8 +19,15 @@
         <mxCell id="b5e__8cxwdXfO7pjib_D-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5" target="b5e__8cxwdXfO7pjib_D-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b5e__8cxwdXfO7pjib_D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5" target="b5e__8cxwdXfO7pjib_D-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="b5e__8cxwdXfO7pjib_D-21" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="b5e__8cxwdXfO7pjib_D-18">
+          <mxGeometry x="0.3032" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="b5e__8cxwdXfO7pjib_D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5" target="b5e__8cxwdXfO7pjib_D-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="250" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;主控板STM32F103&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="180" width="374" height="60" as="geometry" />
