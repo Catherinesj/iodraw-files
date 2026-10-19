@@ -33,6 +33,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="b5e__8cxwdXfO7pjib_D-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="b5e__8cxwdXfO7pjib_D-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-5" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;主控板STM32F103&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="55" y="180" width="374" height="60" as="geometry" />
         </mxCell>
@@ -59,12 +64,6 @@
         </mxCell>
         <mxCell id="b5e__8cxwdXfO7pjib_D-13" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 24px;&quot;&gt;电容储能&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="b5e__8cxwdXfO7pjib_D-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="380" y="260" as="sourcePoint" />
-            <mxPoint x="230" y="260.12" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
